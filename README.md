@@ -4,7 +4,11 @@
 
 A step by step series of examples that tell you how to get a development env running
 
-npm install - for installing dependencies
+Installing Dependencies
+```
+npm install
+```
+Run Server
 ```
 run node app.js
 ```
